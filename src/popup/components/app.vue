@@ -146,7 +146,7 @@ const generateReport = async () => {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 100px;
+  width: 300px;
   height: 100px;
 }
 </style>
